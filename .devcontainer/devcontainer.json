@@ -1,4 +1,4 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "image": "https://and-cezar-manansala.vercel.app/com/devcontainers/universal:2",
   "features": {}
 }
